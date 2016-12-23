@@ -31,3 +31,5 @@
 # qt conf files
 #*.pro
 *.pro.user
+Makefile
+async
